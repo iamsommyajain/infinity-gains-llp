@@ -37,7 +37,7 @@ export default function Home() {
               </div>
               <div className="relative h-[400px] lg:h-[500px] rounded-xl overflow-hidden shadow-xl">
                 <Image
-                  src="/placeholder.svg?height=1000&width=800"
+                  src="/assets/family.jpg"
                   alt="Financial planning"
                   fill
                   className="object-cover"
