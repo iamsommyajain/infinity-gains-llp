@@ -16,19 +16,19 @@ export default function Footer() {
                 <Youtube className="h-5 w-5" />
                 <span className="sr-only">Youtube</span>
               </Link>
-              <Link href="facebook.com/infinitygainsllp" className="text-muted-foreground hover:text-primary">
+              <Link href="https://facebook.com/infinitygainsllp" className="text-muted-foreground hover:text-primary">
                 <Facebook className="h-5 w-5" />
                 <span className="sr-only">Facebook</span>
               </Link>
-              <Link href="twitter.com/infinity_llp" className="text-muted-foreground hover:text-primary">
+              <Link href="https://twitter.com/infinity_llp" className="text-muted-foreground hover:text-primary">
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
               </Link>
-              <Link href="instagram.com/infinity_gains_llp" className="text-muted-foreground hover:text-primary">
+              <Link href="https://instagram.com/infinity_gains_llp" className="text-muted-foreground hover:text-primary">
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </Link>
-              <Link href="www.linkedin.com/in/deepak-jain-55507413a" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.linkedin.com/in/deepak-jain-55507413a" className="text-muted-foreground hover:text-primary">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>

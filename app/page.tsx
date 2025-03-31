@@ -37,7 +37,7 @@ export default function Home() {
               </div>
               <div className="relative h-[400px] lg:h-[500px] rounded-xl overflow-hidden shadow-xl">
                 <Image
-                  src="/assets/family.jpg"
+                  src="/public/assets/family.jpg"
                   alt="Financial planning"
                   fill
                   className="object-cover"
