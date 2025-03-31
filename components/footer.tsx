@@ -85,8 +85,8 @@ export default function Footer() {
             <address className="not-italic text-muted-foreground">
               <p>123 Financial District</p>
               <p>New York, NY 10001</p>
-              <p className="mt-2">Email: info@infinitygains.com</p>
-              <p>Phone: (123) 456-7890</p>
+              <p className="mt-2">Email: info@infinitygains.in</p>
+              <p>Phone: +91 9971004615</p>
             </address>
           </div>
         </div>
